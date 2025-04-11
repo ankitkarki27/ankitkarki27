@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a passionate Python and Django enthusiast, co
 
 
 ## 📫 Get in Touch
- [GitHub](https://github.com/ankitkarki27) , [Portfolio](https://ankitkarki27.github.io) , [LinkedIn](https://linkedin.com/in/ankitkarki27) , [Email](mailto:ankitkarki27@gmail.com)
+ [GitHub](https://github.com/ankitkarki27) , [Portfolio](https://ankitkarki.vercel.app/) , [LinkedIn](https://linkedin.com/in/ankitkarki27) , [Email](mailto:ankitkarki8088@gmail.com)
 
 ---
 
