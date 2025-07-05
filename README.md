@@ -24,5 +24,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ankitkarki27&show_icons=true&theme=dark" width="400">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkarki27&layout=compact&theme=dark" width="350">
 </div>
-
-<img src="https://streak-stats.demolab.com/?user=ankitkarki27&theme=dark" alt="GitHub Streak">
