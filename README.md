@@ -1,7 +1,10 @@
 # 🚀 Hi, I'm Ankit Karki! 
 ### Python & Django | Laravel |Problem Solver | Tech Enthusiast
 
-Welcome to my GitHub profile! I'm passionate about building robust, scalable web applications and solving real-world problems with code. I love exploring new technologies and contributing to open-source projects.
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.karkiankit.com.np/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitkarki27)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitkarki8088@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitkarki27)
 
 ---
 
