@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/meenfaforlife" target="blank"><img src="https://img.shields.io/twitter/follow/meenfaforlife?logo=twitter&style=for-the-badge" alt="meenfaforlife" /></a> </p>
 
-- 🔭 I’m currently working on [Digital Padhai](https://github.com/ankitkarki27/eLearning-Platform-django-react.git)
+- I’m currently working on [Digital Padhai](https://github.com/ankitkarki27/eLearning-Platform-django-react.git)
 
-- 🌱 I’m currently learning **Next.js**
+- All of my projects are available at [karkiankit.com.np](karkiankit.com.np)
 
-- 👨‍💻 All of my projects are available at [karkiankit.com.np](karkiankit.com.np)
+- How to reach me **ankitkarki8088@gmail.com**
 
-- 📫 How to reach me **ankitkarki8088@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Dpxxay05_CvITZHxbg1IAcxX7aNgME35/view](https://drive.google.com/file/d/1Dpxxay05_CvITZHxbg1IAcxX7aNgME35/view)
+- Know about my experiences [https://drive.google.com/file/d/1Dpxxay05_CvITZHxbg1IAcxX7aNgME35/view](https://drive.google.com/file/d/1Dpxxay05_CvITZHxbg1IAcxX7aNgME35/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
