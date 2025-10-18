@@ -7,7 +7,7 @@
 
 - I’m currently working on [Digital Padhai](https://github.com/ankitkarki27/eLearning-Platform-django-react.git)
 
-- All of my projects are available at [karkiankit.com.np](karkiankit.com.np)
+- My website [[karkiankit.com.np](https://www.karkiankit.com.np/)]
 
 - How to reach me **ankitkarki8088@gmail.com**
 
