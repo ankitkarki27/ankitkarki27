@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Ankit Karki</h1>
 <h3 align="center">A passionate backend developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkarki27&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkarki27" /> </p>
-
-<p align="left"> <a href="https://twitter.com/meenfaforlife" target="blank"><img src="https://img.shields.io/twitter/follow/meenfaforlife?logo=twitter&style=for-the-badge" alt="meenfaforlife" /></a> </p>
 
 - I’m currently working on [Digital Padhai](https://github.com/ankitkarki27/eLearning-Platform-django-react.git)
 
@@ -11,7 +8,7 @@
 
 - How to reach me **ankitkarki8088@gmail.com**
 
-- Know about my experiences [https://drive.google.com/file/d/1Dpxxay05_CvITZHxbg1IAcxX7aNgME35/view](https://drive.google.com/file/d/1Dpxxay05_CvITZHxbg1IAcxX7aNgME35/view)
+- CV [https://drive.google.com/file/d/1Dpxxay05_CvITZHxbg1IAcxX7aNgME35/view](https://drive.google.com/file/d/1Dpxxay05_CvITZHxbg1IAcxX7aNgME35/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
