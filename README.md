@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Ankit Karki</h1>
 <h3 align="center">A passionate backend developer from Nepal</h3>
 
-
-- I’m currently working on [Digital Padhai](https://github.com/ankitkarki27/eLearning-Platform-django-react.git)
-
 - My website [[karkiankit.com.np](https://www.karkiankit.com.np/)]
 
 - How to reach me **ankitkarki8088@gmail.com**
